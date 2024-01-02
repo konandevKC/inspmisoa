@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1023015239875",
+    "project_id": "misoadb-33ce7",
+    "storage_bucket": "misoadb-33ce7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023015239875:android:058516c113867023e1e276",
+        "android_client_info": {
+          "package_name": "com.example.misoainsp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023015239875-snaq2o3abdajmir6ej35rp05it7faap3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMzx1w9e25qBi3SxW0Ep3OMsrK2W_g8Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023015239875-snaq2o3abdajmir6ej35rp05it7faap3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023015239875:android:107b03b48e4d7974e1e276",
+        "android_client_info": {
+          "package_name": "com.inspcorporate.misoa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023015239875-snaq2o3abdajmir6ej35rp05it7faap3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMzx1w9e25qBi3SxW0Ep3OMsrK2W_g8Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023015239875-snaq2o3abdajmir6ej35rp05it7faap3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
